@@ -1,4 +1,4 @@
 # 395
 Case Western Reserve University - Senior Project
 
-CWRU CSDS233 -> Fall 2022
+CWRU CSDS395 -> Fall 2022
